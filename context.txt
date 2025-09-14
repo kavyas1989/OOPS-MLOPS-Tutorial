@@ -1,0 +1,15 @@
+class and objects with the help of examples
+class like phone and employee. it has data/attrubute and function/method
+object is instance of particular class
+
+exp1 = class - phone , object - moto g30
+exp2 = class  - employee , objects - kavya sharma, kartik chawla
+
+every data structure inside python is class, whther its list , str, tuple, everything.
+and everything in python is object used by making classes
+
+advantages of oops concept
+    ==  you can create your own datatype
+    == code reusability
+    == debugging
+    == easy to colab
